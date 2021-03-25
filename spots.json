@@ -1,0 +1,45 @@
+{
+    "result": {
+        "1": {
+            "name": "La Salie Sud",
+            "city": "La Teste-De-Buch",
+            "location": [
+                [
+                    44.517795,
+                    -1.2547887
+                ]
+            ]
+        },
+        "2": {
+            "name": "Plage du Vivier",
+            "city": "Biscarosse",
+            "location": [
+                [
+                    44.45834987330968,
+                    -1.2543932730540217
+                ]
+            ]
+        },
+        "3": {
+            "name": "Plage du Truc Vert",
+            "city": "Lège Cap Ferret",
+            "location": [
+                [
+                    44.7151792686988,
+                    -1.2509385698690667
+                ]
+            ]
+        },
+        "4": {
+            "name": "Plage de l'horizon",
+            "city": "Lège Cap Ferret",
+            "location": [
+                [
+                    44.65500301827606,
+                    -1.257809376619781
+                ]
+            ]
+        }
+
+    }
+}
