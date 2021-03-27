@@ -1,6 +1,6 @@
 {
     "result": {
-        "1": {
+        "0": {
             "name": "La Salie Sud",
             "city": "La Teste-De-Buch",
             "location": [
@@ -10,9 +10,9 @@
                 ]
             ]
         },
-        "2": {
+        "1": {
             "name": "Plage du Vivier",
-            "city": "Biscarosse",
+            "city": "Biscarosse plage",
             "location": [
                 [
                     44.45834987330968,
@@ -20,7 +20,7 @@
                 ]
             ]
         },
-        "3": {
+        "2": {
             "name": "Plage du Truc Vert",
             "city": "Lège Cap Ferret",
             "location": [
@@ -30,7 +30,7 @@
                 ]
             ]
         },
-        "4": {
+        "3": {
             "name": "Plage de l'horizon",
             "city": "Lège Cap Ferret",
             "location": [
@@ -39,7 +39,156 @@
                     -1.257809376619781
                 ]
             ]
+        },
+        "4": {
+            "name": "Plage du Grand Crohot",
+            "city": "Lège Cap Ferret",
+            "location": [
+                [
+                    44.7972418,
+                    -1.2340212
+                ]
+            ]
+        },
+        "5": {
+            "name": "Plage centrale",
+            "city": "Lacanau Océan",
+            "location": [
+                [
+                    45.00346118176174,
+                    -1.2024821091554918
+                ]
+            ]
+        },
+        "6": {
+            "name": "Plage de Carcans",
+            "city": "Carcans Plage",
+            "location": [
+                [
+                    45.083512377586025,
+                    -1.19201346542825
+                ]
+            ]
+        },
+        "7": {
+            "name": "Plage centrale",
+            "city": "Hourtin Plage",
+            "location": [
+                [
+                    45.2234488330346,
+                    -1.1721084794106351
+                ]
+            ]
+        },
+        "8": {
+            "name": "Plage Vensac",
+            "city": "Montalivet les Bains",
+            "location": [
+                [
+                    45.390480794621205,
+                    -1.1601922448344293
+                ]
+            ]
+        },
+        "9": {
+            "name": "Plage de Remember",
+            "city": "Mimizan plage",
+            "location": [
+                [
+                    44.21927930526182,
+                    -1.2975576004034686
+                ]
+            ]
+        },
+        "10": {
+            "name": "Plage de Contis",
+            "city": "Contis-plage",
+            "location": [
+                [
+                    44.09327795766513,
+                    -1.32573468371379
+                ]
+            ]
+        },
+        "11": {
+            "name": "Plage des Chênes Lièges",
+            "city": "Moliets",
+            "location": [
+                [
+                    43.8431359066779,
+                    -1.3968338593952614
+                ]
+            ]
+        },
+        "12": {
+            "name": "Plage centrale",
+            "city": "Messanges",
+            "location": [
+                [
+                    43.81570688056365,
+                    -1.404355828967575
+                ]
+            ]
+        },
+        "13": {
+            "name": "Plage des Sablères",
+            "city": "Vieux-Boucau-les-Bains",
+            "location": [
+                [
+                    43.794153835913725,
+                    -1.4125156375907146
+                ]
+            ]
+        },
+        "14": {
+            "name": "Plage la Graviere",
+            "city": "Soorts-Hossegor",
+            "location": [
+                [
+                    43.67127052826677,
+                    -1.441341988669613
+                ]
+            ]
+        },
+        "15": {
+            "name": "Plage du Santocha",
+            "city": "Capbreton",
+            "location": [
+                [
+                    43.646397062309546,
+                    -1.44518377662702
+                ]
+            ]
+        },
+        "16": {
+            "name": "Plage de la Côte des Basques",
+            "city": "Biarritz",
+            "location": [
+                [
+                    43.47847612964101,
+                    -1.5670695040485856
+                ]
+            ]
+        },
+        "17": {
+            "name": "Plage centrale",
+            "city": "Labenne-Océan",
+            "location": [
+                [
+                    43.599459930915486,
+                    -1.4724707594143325
+                ]
+            ]
+        },
+        "18": {
+            "name": "Plage des Cavaliers",
+            "city": "Labenne-Océan",
+            "location": [
+                [
+                    43.52078538281827,
+                    -1.5266223169937476
+                ]
+            ]
         }
-
     }
 }
