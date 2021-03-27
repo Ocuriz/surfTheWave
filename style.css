@@ -22,27 +22,27 @@ html,
 
         #windy {
             width: 75%;
-            height: 50vh;
+            height: 58vh;
             margin: auto;
 
         }
 
-        #logo {
+        #logoSTW {
             height: 12vh;
-            margin-top: 50px;
+            margin-top:40px;
         }
 
         h1 {
             font-family: 'Dancing Script', cursive;
             font-size: 3em;
-            margin: 4vh;
+            margin: 1.2vh auto 3vh;
         }
 
         /* ---------------------------------- */
 
 
         .ocean {
-            height: 5%;
+            height: 4%;
             width: 100%;
             position: fixed;
             bottom: 0;
