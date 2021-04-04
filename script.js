@@ -49,6 +49,7 @@ windyInit(options, windyAPI => {
 
                     markers.push(marker);
                     marker._icon.setAttribute('data-heading', spot.heading);
+                    // Message box of the spot
                     marker.bindPopup('\ud83c\udf0a ' + spot.name + '<br> \ud83d\udccd ' + spot.city + '<br> \ud83d\ude97 <a target="_blank" href="https://www.google.com/maps/dir//' + spot.location + '">Y aller');
 
                     updateIconStyle();
